@@ -1,2 +1,2 @@
-# -Users-ikashkovskiy-Desktop-YANDEX-P-git-megaline
+#megaline
 Megaline project for Yandex practicum
